@@ -24,3 +24,5 @@ On Mac and Linux:
   you run it with admin privileges (i.e. 'sudo host/install_host.sh'), then the
   host will be installed for all users. You can later use host/uninstall_host.sh
   to uninstall the host.
+
+<sub><a target="_blank" href="https://paypal.me/e1adkarak0" rel="nofollow"><img src="https://www.paypalobjects.com/webstatic/mktg/Logo/pp-logo-100px.png" width="60" height="16" border="0" alt="PayPal Donation"></a></sub>
